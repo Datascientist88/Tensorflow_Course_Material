@@ -1,5 +1,5 @@
 # DeepLearning.AI TensorFlow Developer
-
+[solution!](https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate)
 Welcome to the public repo for this course.
 
 Below is the list of assignments and ungraded labs course-wise.
